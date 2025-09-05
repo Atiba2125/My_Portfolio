@@ -15,6 +15,5 @@ It highlights my work with modern technologies and reflects my passion for creat
 
 ## 🛠️ Built With
 - HTML, CSS, JavaScript  
-- PHP / Laravel (if included)  
 
 ---
